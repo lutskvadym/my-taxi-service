@@ -19,7 +19,7 @@ It provides the ability to register a new user as a driver, filtering available 
 - add/delete driver, car, manufacture
 
 # Database structure
-- <img style="vertical-align:middle" height="110" src="db_tables.jpg" width="420"/>
+<img height="110" src="db_tables.jpg" width="420"/>
 
 # How to run this project on your local machine:
 - Install JDK 11+
